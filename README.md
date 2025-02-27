@@ -1,0 +1,1 @@
+This Tic-Tac-Toe game is built using HTML, CSS, and JavaScript, offering a seamless and enjoyable gaming experience across all devices—desktop, tablet, and mobile. With a clean and simple design, it ensures intuitive gameplay and responsive functionality, making it perfect for quick fun on the go or at home.
